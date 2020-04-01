@@ -16,3 +16,4 @@ dev分支开发
 444444
 master
 fenzhi2222222
+local dev remote fenzhi2 
